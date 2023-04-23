@@ -1,5 +1,5 @@
 # 22neli
- 1. First project
- 2. Second project
- 3. Third project
- 4. Forth project
+ 1. Creation of Portfolio
+ 2. Data Science Project
+ 3. NLP Project
+ 4. Django Project
